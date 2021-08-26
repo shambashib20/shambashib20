@@ -7,16 +7,56 @@
 - 🤝 Connect with me: https://www.linkedin.com/in/shambashib 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cooking, and reading books!
-## Skills 
-* ⚛️ React
-* 💻 HTML, CSS, JS, MySQl, MongoDb, Nodejs
-* 💪 Java, C, JavaScript , Python
+## Bio
+I am a BTech CSE undergrad, at University of Engineering and Management Kolkata and currently in my 3rd year of curriculum. Have a decent knowlegde of front end tech stacks and have implemented Java in some projects.
+
+My LinkedIn profile:
+<p align="center">
+<a href="https://www.linkedin.com/in/shambashib"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>
+
+</p>
+
+## Skilled in
+
+### Languages:
+
+<code><img src="https://raw.githubusercontent.com/shambashib20/shambashib20/master/java.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>
+
+### Web Developement
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/html.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/css.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/bt.jpg" height="30"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/redux.png" height="30"></code>
+
+#### Backend/Server:
+
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU" height="30"></code>
+
+#### Database:
+
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="30"></code>
+
+
+### Dev-Ops:
+
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="30"></code>
+<code><img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30"></code>
+
+
+
 ## Experience
 * 🙇‍♂️ Cybersecurity Intern at Gurugram Police Cyber Cell
 * ✌️ Open Source contributor at Swift Code of Summer 2021, GirlScript Summer of Code '21 and GirlScript Winter of Code '21.
 * 🧑‍🔬 Exhibitor at West Bengal State Science Expo 2020
-<!-- Profile Links for socials -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shambashib20)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/shambashib21)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/shambashib/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/Shambashib)  
+
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shambashib20&theme=dark)  
 
