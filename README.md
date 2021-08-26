@@ -8,5 +8,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cooking, and reading books!
 
-[![Shambashib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shambashib20)](https://github.com/shambashib20/github-readme-stats)
+
+
+![Shambashib's Github Stats](https://github-readme-stats.vercel.app/api?username=shambashib20&count_private=true&show_icons=true&theme=dark)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shambashib20&layout=compact)](https://github.com/shambashib20/github-readme-stats)
+
+
 
