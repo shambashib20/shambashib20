@@ -22,7 +22,8 @@
 
 ![Shambashib's Github Stats](https://github-readme-stats.vercel.app/api?username=shambashib20&count_private=true&show_icons=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shambashib20&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shambashib20&theme=darkhub)](https://github.com/shambashib20/github-profile-trophy)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shambashib20&layout=compact&theme=dark)](https://github.com/shambashib20/github-readme-stats)
