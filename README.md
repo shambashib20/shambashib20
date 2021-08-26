@@ -1,15 +1,20 @@
-### নমস্কার (Hi) I am Shambashib Majumdar 👋
+# নমস্কার (Hi) I am Shambashib Majumdar 👋
 
 - 🌱 I’m currently learning Web Developement in Front End stack
 - 👯 I’m looking to collaborate on open source projects, hackathons and competitions.
-- 💬 Ask me about Front End technologies.
+- 💬 Ask me about tech related queries.
 - 📫 How to reach me: shambashibmajumdar2000@gmail.com / shambashib20@yahoo.com
 - 🤝 Connect with me: https://www.linkedin.com/in/shambashib 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cooking, and reading books!
-
-![Profile views](https://gpvc.arturio.dev/shambashib20)
-
+## Skills 
+* ⚛️ React
+* 💻 HTML, CSS, JS, MySQl, MongoDb, Nodejs
+* 💪 Java, C, JavaScript , Python
+## Experience
+* 🙇‍♂️ Cybersecurity Intern at Gurugram Police Cyber Cell
+* ✌️ Open Source contributor at Swift Code of Summer 2021, GirlScript Summer of Code '21 and GirlScript Winter of Code '21.
+* 🧑‍🔬 Exhibitor at West Bengal State Science Expo 2020
 <!-- Profile Links for socials -->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shambashib20)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/shambashib21)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/shambashib/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/Shambashib)  
   
@@ -24,5 +29,6 @@
  
 ![GitHub metrics](https://metrics.lecoq.io/shambashib20)  
 
+![Profile views](https://gpvc.arturio.dev/shambashib20)
 
 
