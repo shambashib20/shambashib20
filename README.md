@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on open source projects, hackathons and competitions.
 - 💬 Ask me about tech related queries.
 - 📫 How to reach me: shambashibmajumdar2000@gmail.com / shambashib20@yahoo.com
-- 🤝 Connect with me: https://www.linkedin.com/in/shambashib 
+- 🤝 Connect with me: +91 8481914369
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cooking, and reading books!
 ## Bio
