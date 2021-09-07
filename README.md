@@ -17,7 +17,7 @@ My LinkedIn profile:
 
 My Hashnode profile:
 <p align="center">
-<a herf="https://hashnode.com/@shambashib"><img height="30" src="https://raw.githubusercontent.com/shambashib20/shambashib20/master/hashnode.png"></a>
+<a href="https://hashnode.com/@shambashib"><img height="30" src="https://raw.githubusercontent.com/shambashib20/shambashib20/master/hashnode.png"></a>
 </p>
 
 ## Skilled in
