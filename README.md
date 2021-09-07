@@ -1,6 +1,6 @@
 # নমস্কার (Hi) I am Shambashib Majumdar 👋
 
-- 🌱 I’m currently into Web Developement, Front End.
+- 🌱 I’m currently into Web Developement, Front End and writting blogs for my projects!
 - 👯 I’m looking to collaborate on open source projects, hackathons and competitions.
 - 💬 Ask me about web developement, cyberseccurity and open source!
 - 📫 How to reach me: shambashib20@yahoo.com
@@ -13,7 +13,9 @@ I am a BTech CSE undergrad, at University of Engineering and Management Kolkata 
 My LinkedIn profile:
 <p align="center">
 <a href="https://www.linkedin.com/in/shambashib"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>
-
+My Hashnode profile:
+<p align="center">
+<a herf="https://hashnode.com/@shambashib"><img height="30" src="https://github.com/shambashib20/shambashib20/blob/85f7cc55a0aa106812fdc66b605a67182b7160a1/hashnode.png"></a>
 </p>
 
 ## Skilled in
