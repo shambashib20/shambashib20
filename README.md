@@ -11,7 +11,7 @@
 I am a BTech CSE undergrad, at University of Engineering and Management Kolkata and currently in my 3rd year of curriculum. Have a decent knowlegde of front end tech stacks and have implemented Java in some projects.
 
 My LinkedIn profile:
-<p align="center">https://github.com/shambashib20/shambashib20/blob/85f7cc55a0aa106812fdc66b605a67182b7160a1/hashnode.png
+<p align="center">
 <a href="https://www.linkedin.com/in/shambashib"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>
   
 
