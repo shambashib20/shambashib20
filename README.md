@@ -58,6 +58,7 @@ My Hashnode profile:
 
 ## Experience
 * 🙇‍♂️ Cybersecurity Intern at Gurugram Police Cyber Cell
+* 💻 Front End Developement Intern at Docccita 
 * ✌️ Open Source contributor at Swift Code of Summer 2021, GirlScript Summer of Code '21 and GirlScript Winter of Code '21.
 * 🧑‍🔬 Exhibitor at West Bengal State Science Expo 2020
 
