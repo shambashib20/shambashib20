@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cooking, and reading books!
 ## Bio
-I am a BTech CSE undergrad, at University of Engineering and Management Kolkata and currently in my 3rd year of curriculum. Have a decent knowlegde of front end tech stacks and have implemented Java in some projects.
+I am a BTech CSE undergrad, at University of Engineering and Management Kolkata and currently in my 3rd year of curriculum. Currently working as a front end developer intern at Docccita.
 
 My LinkedIn profile:
 <p align="center">
