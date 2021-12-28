@@ -1,8 +1,8 @@
 # নমস্কার (Hi) I am Shambashib Majumdar 👋
 
-- 🌱 I’m currently into Web Developement, Front End and writting blogs for my projects!
+- 🌱 I’m currently working as a frontend developer intern @ Doccita and interested in Reactjs as well as Flutter.
 - 👯 I’m looking to collaborate on open source projects, hackathons and competitions.
-- 💬 Ask me about web developement, cyberseccurity and open source!
+- 💬 Ask me about web developement, cyberseccurity, app development and open source.
 - 📫 How to reach me: shambashib20@yahoo.com
 - 🤝 Connect with me: +91 8481914369
 - 😄 Pronouns: He/Him
