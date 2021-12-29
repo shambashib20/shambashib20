@@ -1,6 +1,6 @@
 # নমস্কার (Hi) I am Shambashib Majumdar 👋
 
-- 🌱 I’m currently working as a frontend developer intern @ Doccita and interested in Reactjs as well as Flutter.
+- 🌱 I’m currently working as a **frontend developer intern @ Doccita**.
 - 👯 I’m looking to collaborate on open source projects, hackathons and competitions.
 - 💬 Ask me about web developement, cyberseccurity, app development and open source.
 - 📫 How to reach me: shambashib20@yahoo.com
