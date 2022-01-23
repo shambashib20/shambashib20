@@ -1,12 +1,9 @@
-# নমস্কার (Hi) I am Shambashib Majumdar 👋
+# Hello Github users around the World! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
-- 🌱 I’m currently working as a **frontend developer intern @ Doccita**.
-- 👯 I’m looking to collaborate on open source projects, hackathons and competitions.
-- 💬 Ask me about web developement, cyberseccurity, app development and open source.
-- 📫 How to reach me: shambashib20@yahoo.com
-- 🤝 Connect with me: +91 8481914369
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love cooking, and reading books!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%231D9EF7&lines=Hey!+It's+shambashib20!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+
+
 ## Bio
 I am a BTech CSE undergrad, at University of Engineering and Management Kolkata and currently in my 3rd year of curriculum. Currently working as a front end developer intern at Docccita.
 Also dabbling with a bit of Flutter and React on the way!
