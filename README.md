@@ -7,6 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23008080&lines=Hi!+Its'+Shambashib;I'm+a+Web+Developer!;I'm+a+CRAZY+football+fan!;And+working+on+my+chess+skills+XD!)](https://git.io/typing-svg)
 
 <img src="https://profile-counter.glitch.me/shambashib20/count.svg">
+![Profile views](https://gpvc.arturio.dev/shambashib20)
 
 
 ## Bio
@@ -22,41 +23,6 @@ My Hashnode profile:
 <a href="https://hashnode.com/@shambashib"><img height="30" src="https://raw.githubusercontent.com/shambashib20/shambashib20/master/hashnode.png"></a>
 </p>
 
-## Skilled in
-
-### Languages:
-
-<code><img src="https://raw.githubusercontent.com/shambashib20/shambashib20/master/java.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>
-
-### Web Developement
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/html.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/css.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/bt.jpg" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/redux.png" height="30"></code>
-
-#### Backend/Server:
-
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU" height="30"></code>
-
-#### Database:
-
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="30"></code>
-
-
-### Dev-Ops:
-
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="30"></code>
-<code><img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30"></code>
-
-
 
 ## Experience
 * 🙇‍♂️ Cybersecurity Intern at Gurugram Police Cyber Cell
@@ -64,19 +30,19 @@ My Hashnode profile:
 * ✌️ Open Source contributor at Swift Code of Summer 2021, GirlScript Summer of Code '21 and GirlScript Winter of Code '21.
 * 🧑‍🔬 Exhibitor at West Bengal State Science Expo 2020
 
-  
+### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+
+![snake gif](https://github.com/shambashib20/shambashib20/blob/595188e8b709170cc0126b275c32f8a01ceae9f7/github-contribution-grid-snake.gif)
+
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shambashib20&theme=dark)  
 
 ![Shambashib's Github Stats](https://github-readme-stats.vercel.app/api?username=shambashib20&count_private=true&show_icons=true&theme=dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shambashib20&theme=darkhub)](https://github.com/shambashib20/github-profile-trophy)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shambashib20&layout=compact&theme=dark)](https://github.com/shambashib20/github-readme-stats)
  
 ![GitHub metrics](https://metrics.lecoq.io/shambashib20)  
 
-![Profile views](https://gpvc.arturio.dev/shambashib20)
 
 
