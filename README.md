@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%231D9EF7&lines=Hey!+It's+shambashib20!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
+<img src="https://profile-counter.glitch.me/shambashib20/count.svg">
+
 
 ## Bio
 I am a BTech CSE undergrad, at University of Engineering and Management Kolkata and currently in my 3rd year of curriculum. Currently working as a front end developer intern at Docccita.
