@@ -1,7 +1,10 @@
+![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+
 # Hello Github users around the World! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%231D9EF7&lines=Hey!+It's+shambashib20!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23008080&lines=Hi!+Its'+Shambashib;I'm+a+Web+Developer!;I'm+a+CRAZY+football+fan!;And+working+on+my+chess+skills+XD!)](https://git.io/typing-svg)
 
 <img src="https://profile-counter.glitch.me/shambashib20/count.svg">
 
