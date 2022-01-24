@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23008080&lines=Hi!+Its'+Shambashib;I'm+a+Web+Developer!;I'm+a+CRAZY+football+fan!;And+working+on+my+chess+skills+XD!)](https://git.io/typing-svg)
 
 <img src="https://profile-counter.glitch.me/shambashib20/count.svg">
-![Profile views](https://gpvc.arturio.dev/shambashib20)
+
 
 
 ## Bio
