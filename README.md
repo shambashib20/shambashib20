@@ -13,6 +13,8 @@
 ## Bio
 I am a BTech CSE undergrad, at University of Engineering and Management Kolkata and currently in my 3rd year of curriculum. Currently working as a front end developer intern at Docccita.
 Also dabbling with a bit of Flutter and React on the way!
+
+
 My LinkedIn profile:
 <p align="center">
 <a href="https://www.linkedin.com/in/shambashib"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>
