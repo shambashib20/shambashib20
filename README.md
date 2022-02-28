@@ -36,7 +36,7 @@ My Hashnode profile:
 <p align="left">
   <a>
     <img height="140" width="140" src="https://github.com/shambashib20/shambashib20/blob/e70a0f963545438454fa42b8d7b2efa68fec0f6b/PNG/left.png">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shambashib20&theme=dark)](https://git.io/streak-stats"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shambashib20&theme=dark"/>
     <img height="140" width="140" src="https://github.com/shambashib20/shambashib20/blob/e70a0f963545438454fa42b8d7b2efa68fec0f6b/PNG/right.png">
   </a>
 </p>
