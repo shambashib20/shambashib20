@@ -41,8 +41,6 @@ My Hashnode profile:
   </a>
 </p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shambashib20&theme=dark)
-
 ![Shambashib's Github Stats](https://github-readme-stats.vercel.app/api?username=shambashib20&count_private=true&show_icons=true&theme=dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shambashib20&theme=darkhub)](https://github.com/shambashib20/github-profile-trophy)
