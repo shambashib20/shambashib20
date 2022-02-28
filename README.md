@@ -16,7 +16,6 @@ My LinkedIn profile:
 <p align="center">
 <a href="https://www.linkedin.com/in/shambashib"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>
 
-
 My Hashnode profile:
 
 <p align="center">
@@ -33,6 +32,14 @@ My Hashnode profile:
 ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> :
 
 ![snake gif](https://github.com/shambashib20/shambashib20/blob/595188e8b709170cc0126b275c32f8a01ceae9f7/github-contribution-grid-snake.gif)
+
+<p align="left">
+  <a>
+    <img height="140" width="140" src="https://github.com/shambashib20/shambashib20/blob/e70a0f963545438454fa42b8d7b2efa68fec0f6b/PNG/left.png">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shambashib20&theme=dark)](https://git.io/streak-stats"/>
+    <img height="140" width="140" src="https://github.com/shambashib20/shambashib20/blob/e70a0f963545438454fa42b8d7b2efa68fec0f6b/PNG/right.png">
+  </a>
+</p>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shambashib20&theme=dark)
 
