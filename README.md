@@ -8,8 +8,8 @@
 
 ## Bio
 
-I am a BTech CSE undergrad, at University of Engineering and Management Kolkata and currently in my 3rd year of curriculum. Currently working as a front end developer intern at Docccita.
-Also dabbling with a bit of Flutter and React on the way!
+I am a BTech CSE undergrad, at University of Engineering and Management Kolkata and currently in my 3rd year of curriculum. Recently worked as a front end developer intern at Docccita.
+Currently wroking on projects built with **NextJs**, **React** and **Flutter!**
 
 My LinkedIn profile:
 
