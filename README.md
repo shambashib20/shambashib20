@@ -7,9 +7,18 @@
 <img src="https://profile-counter.glitch.me/shambashib20/count.svg">
 
 ## Bio
+**Web Developer Intern at IEMA Research and Developement**.
+<br>
+<br>
 
-I am a BTech CSE undergrad, at University of Engineering and Management Kolkata and currently in my 3rd year of curriculum. Recently worked as a front end developer intern at Docccita.
-Currently wroking on projects built with **NextJs**, **React** and **Flutter!**
+Working as a web developer intern at IEMA research and developement Ltd. 
+<br>
+Currently in my 3rd year of Engineering curriculum in India. 
+<br>
+
+
+**Building a product from scratch!**
+
 
 My LinkedIn profile:
 
@@ -24,6 +33,7 @@ My Hashnode profile:
 
 ## Experience
 
+- 💻 Web Developer Intern at IEMA Research and Developement Ltd.
 - 🙇‍♂️ Cybersecurity Intern at Gurugram Police Cyber Cell
 - 💻 Front End Developement Intern at Docccita
 - ✌️ Open Source contributor at Swift Code of Summer 2021, GirlScript Summer of Code '21 and GirlScript Winter of Code '21.
