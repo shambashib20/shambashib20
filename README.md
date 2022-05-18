@@ -51,7 +51,7 @@ My Hashnode profile:
   </a>
 </p>
 
-![Shambashib's Github Stats](https://github-readme-stats.vercel.app/api?username=shambashib20&count_private=true&show_icons=true&theme=dark)
+<!-- ![Shambashib's Github Stats](https://github-readme-stats.vercel.app/api?username=shambashib20&count_private=true&show_icons=true&theme=dark) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shambashib20&theme=darkhub)](https://github.com/shambashib20/github-profile-trophy)
 
