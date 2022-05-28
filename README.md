@@ -8,30 +8,30 @@
 <img src="https://profile-counter.glitch.me/shambashib20/count.svg">
 
 ## Bio
-**Web Developer Intern at IEMA Research and Developement**.
-<br>
-<br>
-
-Working as a web developer intern at IEMA research and developement Ltd. 
-<br>
-Currently in my 3rd year of Engineering curriculum in India. 
-<br>
-
-
+Hi I'm **Shambashib Majumdar** and I am currently a **undergrad student** at **University of Engineering and Management Kolkata**. Currently into my **pre final year** and graduating 
 **Building a product from scratch!**
+<br>
+<br>
 
+# Work Experience
 
-## Experience
+|      💼 Designation       |                             🏢Organization                              |      ⏰Timeline      |
+| :-----------------------: | :---------------------------------------------------------------------: | :------------------: |
+| 💻  Web Developer Intern    |                      [@IEMA](https://iemlabs.com)                       | April 2022 - Present |
+| 💻 Web Developer Intern | [@Docccita](https://www.linkedin.com/company/docccita) | Nov 2021 - Feb 2022  |
+| 🙇‍♂️  Cyber Security Intern    |                      [@Gurugram Police Cyber Cell](https://drive.google.com/file/d/1UqcIPQTU-kRjzs-9qdYUQ49D-Fo4jIIG/view)                       | June 2021 - July 2021 |
 
-- 💻 Web Developer Intern at IEMA Research and Developement Ltd.
-- 🙇‍♂️ Cybersecurity Intern at Gurugram Police Cyber Cell
+<!-- ## Achievements
+
+-  Web Developer Intern at IEMA Research and Developement Ltd.
+-  Cybersecurity Intern at Gurugram Police Cyber Cell
 - 💻 Front End Developement Intern at Docccita
 - ✌️ Open Source contributor at Swift Code of Summer 2021, GirlScript Summer of Code '21 and GirlScript Winter of Code '21.
-- 🧑‍🔬 Exhibitor at West Bengal State Science Expo 2020
+- 🧑‍🔬 Exhibitor at West Bengal State Science Expo 2020 -->
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> :
 
-![snake gif](https://github.com/shambashib20/shambashib20/blob/595188e8b709170cc0126b275c32f8a01ceae9f7/github-contribution-grid-snake.gif)
+<br>
+<br>
 
 <p align="left">
   <a>
@@ -47,28 +47,23 @@ Currently in my 3rd year of Engineering curriculum in India.
 [![trophy](https://github-profile-trophy.vercel.app/?username=shambashib20&theme=darkhub)](https://github.com/shambashib20/github-profile-trophy)
 # Socials - Contact Me!
 
-## My LinkedIn profile:
-<p align="center">
-<a href="https://www.linkedin.com/in/shambashib"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-## My Hashnode profile:
-<p align="center">
-<a href="https://hashnode.com/@shambashib"><img height="30" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-</p>
-
-## My Telegram
-<p align="center">
-<a href="https://t.me/its_shambashib"><img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-</p>
-
-## My Twitter 
-<p align="center">
-<a href="https://t.me/its_shambashib"><img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-</p>
-
+<a target="_blank" href="https://www.linkedin.com/in/shambashib"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+&emsp;
+<a target="_blank" href="https://hashnode.com/@shambashib"><img height="30" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+&emsp;
+<a target="_blank" href="https://t.me/its_shambashib"><img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+&emsp;
+<a target="_blank" href="https://twitter.com/its_shambashib"><img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+&emsp;
+<a target="_blank" href="mailto:shambashibmajumdar2000@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+&emsp;
 
 ![Metrics](https://metrics.lecoq.io/shambashib20?template=terminal&introduction=1&base.indepth=false&introduction.title=true&config.timezone=Asia%2FCalcutta)
+### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> :
 
+![snake gif](https://github.com/shambashib20/shambashib20/blob/595188e8b709170cc0126b275c32f8a01ceae9f7/github-contribution-grid-snake.gif)
+<br>
+<br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k92ua747i2tdq8jvivowjqkig&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=k92ua747i2tdq8jvivowjqkig&redirect=true)
 
