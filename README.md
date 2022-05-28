@@ -20,17 +20,6 @@ Currently in my 3rd year of Engineering curriculum in India.
 **Building a product from scratch!**
 
 
-My LinkedIn profile:
-
-<p align="center">
-<a href="https://www.linkedin.com/in/shambashib"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>
-
-My Hashnode profile:
-
-<p align="center">
-<a href="https://hashnode.com/@shambashib"><img height="30" src="https://raw.githubusercontent.com/shambashib20/shambashib20/master/hashnode.png"></a>
-</p>
-
 ## Experience
 
 - 💻 Web Developer Intern at IEMA Research and Developement Ltd.
@@ -53,6 +42,31 @@ My Hashnode profile:
 
 <!-- ![Shambashib's Github Stats](https://github-readme-stats.vercel.app/api?username=shambashib20&count_private=true&show_icons=true&theme=dark) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shambashib20&theme=darkhub)](https://github.com/shambashib20/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/shambashib20)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shambashib20&theme=darkhub)](https://github.com/shambashib20/github-profile-trophy)
+# Socials - Contact Me!
+
+## My LinkedIn profile:
+<p align="center">
+<a href="https://www.linkedin.com/in/shambashib"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+## My Hashnode profile:
+<p align="center">
+<a href="https://hashnode.com/@shambashib"><img height="30" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+</p>
+
+## My Telegram
+<p align="center">
+<a href="https://t.me/its_shambashib"><img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
+
+## My Twitter 
+<p align="center">
+<a href="https://t.me/its_shambashib"><img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+</p>
+
+
+![Metrics](https://metrics.lecoq.io/shambashib20?template=terminal&introduction=1&base.indepth=false&introduction.title=true&config.timezone=Asia%2FCalcutta)
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k92ua747i2tdq8jvivowjqkig&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=k92ua747i2tdq8jvivowjqkig&redirect=true)
