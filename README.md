@@ -71,3 +71,6 @@ Currently in my 3rd year of Engineering curriculum in India.
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k92ua747i2tdq8jvivowjqkig&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=k92ua747i2tdq8jvivowjqkig&redirect=true)
+
+# Moon's faces!
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray)](https://moon-svg.minung.dev)
