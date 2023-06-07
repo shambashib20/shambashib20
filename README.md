@@ -19,7 +19,7 @@
 
 |      💼 Designation      |                                            🏢Organization                                             |      ⏰Timeline       |
 | :----------------------: | :---------------------------------------------------------------------------------------------------: | :-------------------: |
-| 💻 Software Developer Intern  |                                     [@WLHPL](https://weblogoshub.com/)                           | September 2022 - Present  |
+| 💻 Software Developer Intern  |                                     [@Fortmindz](https://fortmindz.com/)                           | September 2022 - Present  |
 | 💻 Software Developer Intern  |                                     [@IEMA](https://iemlabs.com)                                      | July 2022 - August 2022  |
 | 💻 Web Developer Intern  |                                     [@IEMA](https://iemlabs.com)                                      | April 2022 - June 2022  |
 | 💻 Web Developer Intern  |                        [@Docccita](https://www.linkedin.com/company/docccita)                         |  Nov 2021 - Feb 2022  |
