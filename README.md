@@ -19,7 +19,7 @@
 
 |      💼 Designation      |                                            🏢Organization                                             |      ⏰Timeline       |
 | :----------------------: | :---------------------------------------------------------------------------------------------------: | :-------------------: |
-| 💻 Full Stack Developer   |                                     [@PlutonApps](https://www.plutonapps.com/)                           | March 2024 - Present  |
+| 💻 Software Developer   |                                     [@mindwebs](https://mindwebs.org/)                                 | July 2024 - Present  |
 | 💻 Software Developer Intern  |                                     [@Fortmindz](https://fortmindz.com/)                           | September 2022 - Februrary 2024  |
 | 💻 Software Developer Intern  |                                     [@IEMA](https://iemlabs.com)                                      | July 2022 - August 2022  |
 | 💻 Web Developer Intern  |                                     [@IEMA](https://iemlabs.com)                                      | April 2022 - June 2022  |
