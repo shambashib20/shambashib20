@@ -91,7 +91,7 @@
 &emsp;
 <a target="_blank" href="https://twitter.com/its_shambashib"><img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 &emsp;
-<a target="_blank" href="mailto:shambashibmajumdar2000@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a target="_blank" href="mailto:shambashib.interview@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 &emsp;
 
 <!-- ![Metrics](https://metrics.lecoq.io/shambashib20?template=terminal&introduction=1&base.indepth=false&introduction.title=true&config.timezone=Asia%2FCalcutta) -->
